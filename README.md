@@ -38,10 +38,9 @@ It makes sharing links simple, secure, and insightful, with analytics and user a
     npm install  
     npm run dev  
 
-
-##🤝 Contributing  
-
+##🤝 Contributing   
 Contributions are welcome!   
 Fork the repo and submit PRs.  
+
 
 
