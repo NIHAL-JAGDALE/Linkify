@@ -1,11 +1,10 @@
 ﻿🔗 Linkify – Smart URL Shortener
 
-Linkify is a modern and efficient URL shortening application built with Java 21, Spring Boot, and PostgreSQL.
+Linkify is a modern and efficient URL shortening application built with **Java 21, Spring Boot, and PostgreSQL**.  
 It makes sharing links simple, secure, and insightful, with analytics and user authentication for better management.
 
 
-✨ Features:
-
+## ✨ Features
 
 - ⚡ **Simple URL Shortening** – Generate short, clean, and shareable links.  
 - 📊 **Analytics Dashboard** – Track clicks, geolocation, and referrals.  
@@ -14,30 +13,33 @@ It makes sharing links simple, secure, and insightful, with analytics and user a
 - 🗄 **Reliable Data Storage** – PostgreSQL for robust data management.  
 - 🎨 **Modern Frontend** – React.js + Tailwind for responsive UI.  
 
-🏗 Tech Stack:
 
-Backend: Java 21, Spring Boot 3.x, Spring Security (JWT)
-Database: PostgreSQL
-Frontend: React.js, Tailwind CSS
-Build Tool: Maven/Gradle
-Deployment: Docker + Cloud (Heroku/Render/AWS)
+## 🏗 Tech Stack
 
-
-🚀 Getting Started
-
-1. Clone the repository
-    git clone https://github.com/NIHAL-JAGDALE/Linkify.git
-    cd linkify
-
-2. Setup .env file.
-
-3. Build and run the backend
-
-4. Start the frontend (React)
-    npm install
-    npm run dev
+**Backend:** Java 21, Spring Boot 3.x, Spring Security (JWT)  
+**Database:** PostgreSQL  
+**Frontend:** React.js, Tailwind CSS  
+**Build Tool:** Maven/Gradle  
+**Deployment:** Docker + Cloud (Heroku/Render/AWS)  
 
 
-🤝 Contributing
+## 🚀 Getting Started
 
-Contributions are welcome! Fork the repo and submit PRs.
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/NIHAL-JAGDALE/Linkify.git
+   cd linkify
+
+2. Setup .env file.  
+
+3. Build and run the backend.    
+
+4. Start the frontend (React)  
+    npm install  
+    npm run dev  
+
+
+🤝 Contributing  
+Contributions are welcome!   
+Fork the repo and submit PRs.  
+
