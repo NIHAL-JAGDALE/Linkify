@@ -33,11 +33,11 @@ It makes sharing links simple, secure, and insightful, with analytics and user a
    git clone https://github.com/NIHAL-JAGDALE/Linkify.git
    cd linkify
    
-2. **Setup .env file
-3. 
-4. **Build and run the backend
-5. 
-6. **Start the frontend (React)
+2. Setup .env file
+   
+3. Build and run the backend
+    
+4. Start the frontend (React)
    ```bash
    npm install
    npm run dev
@@ -47,3 +47,4 @@ It makes sharing links simple, secure, and insightful, with analytics and user a
 ## 🤝 Contributing
 - **Contributions are welcome!
 - **Fork the repo and submit a pull request 🚀
+
