@@ -11,7 +11,7 @@
 	<groupId>com.url</groupId>
 	<artifactId>linkify-sb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>url-shortener-sb</name>
+	<name>linkify-sb</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>

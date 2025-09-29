@@ -1,0 +1,16 @@
+#Şenv:DATABASE_URL="jdbc:postgresql://ep-royal-union-ad9y5rym-pooler.c-2.us-east-1.aws.neon.tech/neondb?user=neondb_owner&password=npg_3YahKzfcbw2Q&sslmode=require&channelBinding=require"
+#Şenv:DATABASE_USERNAME="neondb_owner"
+#Şenv:DATABASE_PASSWORD="npg_3YahKzfcbw2Q"
+#Şenv:DATABASE_DIALECT="org.hibernate.dialect.PostgreSQLDialect"
+#Şenv:JWT_SECRET="dc57178f3b6b31eddebe40bb016cd94270a97107bdaa5432b39eb3e66dda72e4"
+#Şenv:FRONTEND_URL="http://localhost:5173"
+
+#Paste this in Terminal for setting value
+#Purpose:- creating jar file
+
+#Then paste
+# ./mvnw package
+
+
+#Deploying backend on Render after docer image is created
+#Deploying frontend on Netlify
